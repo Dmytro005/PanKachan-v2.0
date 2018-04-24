@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project C#\\Core\\PanKachan-v2.0\\src\\pk\\PanKachan.Api\\PanKachan.Core\\PanKachan.Core.csproj",
+      "projectUniqueName": "D:\\Project C#\\Core\\PanKachan-v2.0\\pankachan\\src\\pk\\PanKachan.Api\\PanKachan.Core\\PanKachan.Core.csproj",
       "projectName": "PanKachan.Core",
-      "projectPath": "D:\\Project C#\\Core\\PanKachan-v2.0\\src\\pk\\PanKachan.Api\\PanKachan.Core\\PanKachan.Core.csproj",
+      "projectPath": "D:\\Project C#\\Core\\PanKachan-v2.0\\pankachan\\src\\pk\\PanKachan.Api\\PanKachan.Core\\PanKachan.Core.csproj",
       "packagesPath": "C:\\Users\\Oleh\\.nuget\\packages\\",
-      "outputPath": "D:\\Project C#\\Core\\PanKachan-v2.0\\src\\pk\\PanKachan.Api\\PanKachan.Core\\obj\\",
+      "outputPath": "D:\\Project C#\\Core\\PanKachan-v2.0\\pankachan\\src\\pk\\PanKachan.Api\\PanKachan.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

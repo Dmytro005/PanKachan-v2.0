@@ -1,0 +1,9 @@
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Core\bin\Debug\netcoreapp2.0\PanKachan.Core.deps.json
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Core\bin\Debug\netcoreapp2.0\PanKachan.Core.dll
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Core\bin\Debug\netcoreapp2.0\PanKachan.Core.pdb
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Core\obj\Debug\netcoreapp2.0\PanKachan.Core.csprojResolveAssemblyReference.cache
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Core\obj\Debug\netcoreapp2.0\PanKachan.Core.csproj.CoreCompileInputs.cache
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Core\obj\Debug\netcoreapp2.0\PanKachan.Core.AssemblyInfoInputs.cache
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Core\obj\Debug\netcoreapp2.0\PanKachan.Core.AssemblyInfo.cs
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Core\obj\Debug\netcoreapp2.0\PanKachan.Core.dll
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Core\obj\Debug\netcoreapp2.0\PanKachan.Core.pdb

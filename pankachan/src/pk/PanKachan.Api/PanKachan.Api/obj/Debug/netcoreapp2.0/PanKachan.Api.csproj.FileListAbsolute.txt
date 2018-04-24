@@ -1,0 +1,16 @@
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Api\bin\Debug\netcoreapp2.0\PanKachan.DAL.dll
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Api\obj\Debug\netcoreapp2.0\PanKachan.Api.csprojResolveAssemblyReference.cache
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Api\obj\Debug\netcoreapp2.0\PanKachan.Api.csproj.CoreCompileInputs.cache
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Api\obj\Debug\netcoreapp2.0\PanKachan.Api.AssemblyInfoInputs.cache
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Api\obj\Debug\netcoreapp2.0\PanKachan.Api.AssemblyInfo.cs
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Api\bin\Debug\netcoreapp2.0\PanKachan.Api.deps.json
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Api\bin\Debug\netcoreapp2.0\PanKachan.Api.runtimeconfig.json
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Api\bin\Debug\netcoreapp2.0\PanKachan.Api.runtimeconfig.dev.json
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Api\bin\Debug\netcoreapp2.0\PanKachan.Api.dll
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Api\bin\Debug\netcoreapp2.0\PanKachan.Api.pdb
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Api\bin\Debug\netcoreapp2.0\PanKachan.Core.dll
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Api\bin\Debug\netcoreapp2.0\PanKachan.DAL.pdb
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Api\bin\Debug\netcoreapp2.0\PanKachan.Core.pdb
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Api\obj\Debug\netcoreapp2.0\PanKachan.Api.csproj.CopyComplete
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Api\obj\Debug\netcoreapp2.0\PanKachan.Api.dll
+D:\Project C#\Core\PanKachan-v2.0\pankachan\src\pk\PanKachan.Api\PanKachan.Api\obj\Debug\netcoreapp2.0\PanKachan.Api.pdb
